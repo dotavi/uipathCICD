@@ -85,10 +85,10 @@
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-        <av:Point x:Key="ShapeLocation">50,32.5</av:Point>
+        <av:Point x:Key="ShapeLocation">0,42.5</av:Point>
         <x:Double x:Key="StateContainerWidth">653.33333333333337</x:Double>
         <x:Double x:Key="StateContainerHeight">705</x:Double>
-        <av:PointCollection x:Key="ConnectorLocation">110,70 140,70 140,58.1666666666667 223,58.1666666666667</av:PointCollection>
+        <av:PointCollection x:Key="ConnectorLocation">60,80 90,80 90,58.1666666666667 223,58.1666666666667</av:PointCollection>
         <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
